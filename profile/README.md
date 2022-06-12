@@ -1,4 +1,6 @@
-## Hi there 👋, we are the G-AILAB research group from Central South Unviersity. 
+## The G-AILAB research group 
+
+  We are the research group leaded by Prof. dr. Ning Gui. in Central South University. 
 
 ### Our Lab is focus the basic ML and AI algorithms for buiding interpretable industrial solutions. Our major research f
 
